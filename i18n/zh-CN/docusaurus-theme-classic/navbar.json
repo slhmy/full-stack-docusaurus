@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "全栈开发知识库",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Blog": {
+    "message": "博客",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Algorithms": {
+    "message": "算法",
+    "description": "Navbar item with label Algorithms"
+  },
+  "item.label.Docusaurus": {
+    "message": "Docusaurus",
+    "description": "Navbar item with label Docusaurus"
+  },
+  "item.label.Development": {
+    "message": "开发",
+    "description": "Navbar item with label Development"
+  }
+}
