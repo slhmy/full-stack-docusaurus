@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "tomasdahlqvist.markdown-admonitions",
+        "davidanson.vscode-markdownlint",
+        "unifiedjs.vscode-mdx",
+        "jock.svg"
+    ]
+}

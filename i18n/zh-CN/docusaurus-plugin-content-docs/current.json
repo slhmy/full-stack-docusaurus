@@ -1,0 +1,58 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docusaurusSidebar.category.Tutorial - Basics": {
+    "message": "Tutorial - Basics",
+    "description": "The label for category Tutorial - Basics in sidebar docusaurusSidebar"
+  },
+  "sidebar.docusaurusSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Tutorial - Basics in sidebar docusaurusSidebar"
+  },
+  "sidebar.docusaurusSidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "The label for category Tutorial - Extras in sidebar docusaurusSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Python - Basics": {
+    "message": "Python - 基础",
+    "description": "The label for category Python - Basics in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Python - Basics.link.generated-index.description": {
+    "message": "在算法中你所需要了解的Python基础。",
+    "description": "The generated-index page description for category Python - Basics in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Problem Solutions": {
+    "message": "例题讲解",
+    "description": "The label for category Problem Solutions in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Problem Solutions.link.generated-index.description": {
+    "message": "记录一些常见的算法题解法",
+    "description": "The generated-index page description for category Problem Solutions in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Data Structures": {
+    "message": "数据结构",
+    "description": "The label for category Data Structures in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Data Structures.link.generated-index.description": {
+    "message": "数据结构的介绍与使用",
+    "description": "The generated-index page description for category Data Structures in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Cpp - Basics": {
+    "message": "Cpp - 基础",
+    "description": "The label for category Cpp - Basics in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Cpp - Basics.link.generated-index.description": {
+    "message": "在算法中你所需要了解的Cpp基础。",
+    "description": "The generated-index page description for category Cpp - Basics in sidebar algorithmsSidebar"
+  },
+  "sidebar.developmentSidebar.category.Redis Knowledge": {
+    "message": "Redis学习",
+    "description": "The label for category Redis Knowledge in sidebar developmentSidebar"
+  },
+  "sidebar.developmentSidebar.category.Redis Knowledge.link.generated-index.description": {
+    "message": "了解Redis和所有有关的知识",
+    "description": "The generated-index page description for category Redis Knowledge in sidebar developmentSidebar"
+  }
+}
