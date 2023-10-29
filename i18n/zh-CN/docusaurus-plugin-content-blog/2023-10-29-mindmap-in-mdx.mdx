@@ -1,0 +1,77 @@
+---
+slug: mindmap-in-mdx
+title: MDX中的思维导图
+authors: [slhmy]
+tags: [mdx, 思维导图]
+---
+
+经过了这次的尝试，我觉得 MDX 非常酷，它近乎无所不能的。
+你可以在 MDX 中使用任何你想要的东西，让我有了更多使用它的想法~
+
+{/* truncate */}
+
+先来看看效果：
+
+import MarkmapRender from "/components/MarkmapRender.tsx";
+
+<MarkmapRender
+  value={`
+  # markmap
+  - beautiful
+    - attractive
+    - simple
+  - useful
+    - for static sites
+    - for markdown
+  - easy
+  - interactive
+  - [click me to try](https://markmap.js.org/repl)
+  `}
+  style={{ width: "100%" }}
+/>
+
+:::tip
+你可以在
+[👉 这里](https://github.com/slhmy/full-stack-docusaurus/blob/main/i18n/zh-CN/docusaurus-plugin-content-blog/2023-10-29-mindmap-in-mdx.mdx)
+查看到本篇博客的源码，以便于你更好的理解它是如何运作的。
+:::
+
+为了实现在 MDX 中使用思维导图，我们需要引入一个叫做[Markmap](https://github.com/markmap/markmap)的库。
+并且将其封装成一个 React 组件，以便于在 MDX 中使用。
+
+```tsx
+import React, { useEffect } from "react";
+import { Transformer } from "markmap-lib";
+const { Markmap } = require("markmap-view");
+
+const transformer = new Transformer();
+
+const MarkmapRender: React.FC<{
+  value?: string;
+  style?: React.CSSProperties;
+}> = (props) => {
+  const svg = React.useRef<SVGSVGElement>();
+
+  useEffect(() => {
+    const mm = Markmap.create(svg.current);
+    const { root } = transformer.transform(props.value || "");
+    mm.setData(root);
+    mm.fit();
+  }, [props.value]);
+
+  return (
+    <React.Fragment>
+      <svg className="flex-1" ref={svg} style={props.style} />
+    </React.Fragment>
+  );
+};
+
+export default MarkmapRender;
+```
+
+这是一个相对初级但有较为现代的示例，较为完整的 React 使用案例可以参考
+[👉 这里](https://stackblitz.com/edit/markmap?file=markmap-class.tsx,markmap-hooks.tsx)。
+
+> 在我的例子中，优点是我避免使用了老式的 React 组件声明方式
+
+由于文档的不完善和组件模块导出的一些问题，你可能会遇到一些编辑器报错，但它们并不是致命的，你可以忽略它们。

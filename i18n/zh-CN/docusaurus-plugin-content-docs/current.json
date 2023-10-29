@@ -1,0 +1,54 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.algorithmsSidebar.category.Python - Basics": {
+    "message": "Python - 基础",
+    "description": "The label for category Python - Basics in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Python - Basics.link.generated-index.description": {
+    "message": "在算法中你所需要了解的 Python 基础。",
+    "description": "The generated-index page description for category Python - Basics in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Problem Solutions": {
+    "message": "例题讲解",
+    "description": "The label for category Problem Solutions in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Problem Solutions.link.generated-index.description": {
+    "message": "记录一些常见的算法题解法",
+    "description": "The generated-index page description for category Problem Solutions in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Data Structures": {
+    "message": "数据结构",
+    "description": "The label for category Data Structures in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Data Structures.link.generated-index.description": {
+    "message": "数据结构的介绍与使用",
+    "description": "The generated-index page description for category Data Structures in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Cpp - Basics": {
+    "message": "Cpp - 基础",
+    "description": "The label for category Cpp - Basics in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Cpp - Basics.link.generated-index.description": {
+    "message": "在算法中你所需要了解的 Cpp 基础。",
+    "description": "The generated-index page description for category Cpp - Basics in sidebar algorithmsSidebar"
+  },
+  "sidebar.developmentSidebar.category.Redis Knowledge": {
+    "message": "Redis 知识",
+    "description": "The label for category Redis Knowledge in sidebar developmentSidebar"
+  },
+  "sidebar.developmentSidebar.category.Redis Knowledge.link.generated-index.description": {
+    "message": "了解 Redis 和所有有关的知识",
+    "description": "The generated-index page description for category Redis Knowledge in sidebar developmentSidebar"
+  },
+  "sidebar.developmentSidebar.category.Database Knowledge": {
+    "message": "数据库知识",
+    "description": "The label for category Database Knowledge in sidebar developmentSidebar"
+  },
+  "sidebar.developmentSidebar.category.Database Knowledge.link.generated-index.description": {
+    "message": "了解数据库和所有相关的知识",
+    "description": "The generated-index page description for category Database Knowledge in sidebar developmentSidebar"
+  }
+}
