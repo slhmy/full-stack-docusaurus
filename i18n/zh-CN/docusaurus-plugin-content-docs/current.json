@@ -34,5 +34,13 @@
   "sidebar.algorithmsSidebar.category.Python - Basics.link.generated-index.description": {
     "message": "在基础算法中你所需要了解的Python基础",
     "description": "The generated-index page description for category Python - Basics in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Problem Solutions": {
+    "message": "例题讲解",
+    "description": "The label for category Problem Solutions in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Problem Solutions.link.generated-index.description": {
+    "message": "记录一些常见的算法题解法",
+    "description": "The generated-index page description for category Problem Solutions in sidebar algorithmsSidebar"
   }
 }
