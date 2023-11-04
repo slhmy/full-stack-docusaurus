@@ -42,5 +42,13 @@
   "sidebar.algorithmsSidebar.category.Problem Solutions.link.generated-index.description": {
     "message": "记录一些常见的算法题解法",
     "description": "The generated-index page description for category Problem Solutions in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Data Structures": {
+    "message": "数据结构",
+    "description": "The label for category Data Structures in sidebar algorithmsSidebar"
+  },
+  "sidebar.algorithmsSidebar.category.Data Structures.link.generated-index.description": {
+    "message": "数据结构的介绍与使用",
+    "description": "The generated-index page description for category Data Structures in sidebar algorithmsSidebar"
   }
 }
