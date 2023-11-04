@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfull_stack_docusaurus=self.webpackChunkfull_stack_docusaurus||[]).push([[535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Mindmap in MDX","permalink":"/full-stack-docusaurus/en/blog/mindmap-in-mdx","unlisted":false}]}')}}]);
