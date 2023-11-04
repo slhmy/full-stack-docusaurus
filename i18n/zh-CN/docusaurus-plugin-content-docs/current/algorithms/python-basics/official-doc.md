@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # 官方文档
 
 :::tip
