@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfull_stack_docusaurus=self.webpackChunkfull_stack_docusaurus||[]).push([[8936],{4867:u=>{u.exports=JSON.parse('[{"label":"mdx","permalink":"/full-stack-docusaurus/blog/tags/mdx","count":1},{"label":"\u601d\u7ef4\u5bfc\u56fe","permalink":"/full-stack-docusaurus/blog/tags/\u601d\u7ef4\u5bfc\u56fe","count":1}]')}}]);

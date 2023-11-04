@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfull_stack_docusaurus=self.webpackChunkfull_stack_docusaurus||[]).push([[1322],{6553:s=>{s.exports=JSON.parse('{"permalink":"/full-stack-docusaurus/blog/tags/mindmap","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
