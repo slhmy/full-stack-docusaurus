@@ -13,3 +13,9 @@ a, b = b, a
 ```python
 a = 1 if x > 0 else -1
 ```
+
+## 行内多语句
+
+```python
+a = 1; b = 2
+```
