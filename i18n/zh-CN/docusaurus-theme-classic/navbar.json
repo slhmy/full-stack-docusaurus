@@ -22,5 +22,9 @@
   "item.label.Docusaurus": {
     "message": "Docusaurus",
     "description": "Navbar item with label Docusaurus"
+  },
+  "item.label.Development": {
+    "message": "开发",
+    "description": "Navbar item with label Development"
   }
 }

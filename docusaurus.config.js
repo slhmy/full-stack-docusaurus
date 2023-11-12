@@ -8,7 +8,7 @@ const darkTheme = themes.dracula;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Full Stack Docusaurus",
-  tagline: "Dinosaurs are cool",
+  tagline: "Learn everything about how to become a full stack developer here👋",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -78,6 +78,12 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
+          {
+            type: "docSidebar",
+            sidebarId: "developmentSidebar",
+            position: "left",
+            label: "Development",
+          },
           {
             type: "docSidebar",
             sidebarId: "algorithmsSidebar",
