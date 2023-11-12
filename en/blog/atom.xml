@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://slhmy.github.io/full-stack-docusaurus/en/blog</id>
     <title>Full Stack Docusaurus Blog</title>
-    <updated>2023-10-29T00:00:00.000Z</updated>
+    <updated>2023-11-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://slhmy.github.io/full-stack-docusaurus/en/blog"/>
     <subtitle>Full Stack Docusaurus Blog</subtitle>
     <icon>https://slhmy.github.io/full-stack-docusaurus/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://slhmy.github.io/full-stack-docusaurus/en/blog/weclome</id>
+        <link href="https://slhmy.github.io/full-stack-docusaurus/en/blog/weclome"/>
+        <updated>2023-11-12T00:00:00.000Z</updated>
+        <author>
+            <name>slhmy</name>
+            <uri>https://github.com/slhmy</uri>
+        </author>
+        <category label="guide" term="guide"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mindmap in MDX]]></title>
         <id>https://slhmy.github.io/full-stack-docusaurus/en/blog/mindmap-in-mdx</id>

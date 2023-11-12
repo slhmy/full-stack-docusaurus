@@ -4,10 +4,39 @@
         <title>Full Stack Docusaurus Blog</title>
         <link>https://slhmy.github.io/full-stack-docusaurus/blog</link>
         <description>Full Stack Docusaurus Blog</description>
-        <lastBuildDate>Sun, 29 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[欢迎👋]]></title>
+            <link>https://slhmy.github.io/full-stack-docusaurus/blog/weclome</link>
+            <guid>https://slhmy.github.io/full-stack-docusaurus/blog/weclome</guid>
+            <pubDate>Sun, 12 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[这里是对“全栈开发知识库”的一些说明，帮助你更快的了解到你想要的内容。]]></description>
+            <content:encoded><![CDATA[<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>提示</div><div class="admonitionContent_BuS1"><p>这里是对“全栈开发知识库”的一些说明，帮助你更快的了解到你想要的内容。</p></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="前言">前言<a href="https://slhmy.github.io/full-stack-docusaurus/blog/weclome#%E5%89%8D%E8%A8%80" class="hash-link" aria-label="前言的直接链接" title="前言的直接链接">​</a></h2>
+<p>我在学生时代时常常被类似的问题困扰：不清楚该如何利用编程来解决遇到的问题、实现想要的功能。
+学习的基础知识很多，但是在实际的应用中，却不知道如何使用。</p>
+<p>我总是希望能够了解事物的全貌，而不是只知道其中的一部分。
+也因此，在几年前开始寻找工作时，就已经考虑过是否可以成为一名全栈开发者。</p>
+<p>如你所见，我现在建立了这个知识库，说明我已经有了一定的信心和能力。
+“全栈”是一个无限宽广的领域，不过幸运的是，我们进入了一个崭新的时代，在AI和现代化的工具链中，我们可以更快的学习和实践。
+我希望这个知识库可以帮助到你，我们一起从最通用的部分开始，最终学会如何在自己喜欢的领域中前进。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="指南">指南<a href="https://slhmy.github.io/full-stack-docusaurus/blog/weclome#%E6%8C%87%E5%8D%97" class="hash-link" aria-label="指南的直接链接" title="指南的直接链接">​</a></h2>
+<p>“全栈开发知识库”主要有三个分区：<strong>开发</strong>、<strong>算法</strong>、<strong>博客</strong>（Docusaurus是框架提供的建站指引，我只是还想暂时留着它）。</p>
+<ul>
+<li>开发和算法分区是我对基础知识进行梳理的分区，这些内容应当是通用的，你会在考试、面试或者实际开发中遇到它们。</li>
+<li>博客更多地会是一些我个人探索和想法，它们会更加有趣。</li>
+</ul>
+<p><strong>搜索</strong>功能是完全可用的，它基于algolia，可以帮助你快速找到想要的内容。
+这是一个我日常也会使用的功能，所以请放心，我会尽可能的保证它的可用性。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="贡献">贡献<a href="https://slhmy.github.io/full-stack-docusaurus/blog/weclome#%E8%B4%A1%E7%8C%AE" class="hash-link" aria-label="贡献的直接链接" title="贡献的直接链接">​</a></h2>
+<p>这个知识库是开源的，你可以在<a href="https://github.com/slhmy/full-stack-docusaurus" target="_blank" rel="noopener noreferrer">GitHub</a>找到源码。</p>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>备注</div><div class="admonitionContent_BuS1"><p>“编辑此页”按钮也是可用的，但它只会定向到en版本文章的源码，如果你想产出其他语言的内容，你需要了解一些Docusaurus的知识。</p></div></div>
+<p>我非常欢迎合作者的到来，或许我们可以在未来有活跃的issue和discussion来帮助我们产出更加优秀的内容。</p>]]></content:encoded>
+            <category>指引</category>
+        </item>
         <item>
             <title><![CDATA[MDX中的思维导图]]></title>
             <link>https://slhmy.github.io/full-stack-docusaurus/blog/mindmap-in-mdx</link>

@@ -4,10 +4,17 @@
         <title>Full Stack Docusaurus Blog</title>
         <link>https://slhmy.github.io/full-stack-docusaurus/en/blog</link>
         <description>Full Stack Docusaurus Blog</description>
-        <lastBuildDate>Sun, 29 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://slhmy.github.io/full-stack-docusaurus/en/blog/weclome</link>
+            <guid>https://slhmy.github.io/full-stack-docusaurus/en/blog/weclome</guid>
+            <pubDate>Sun, 12 Nov 2023 00:00:00 GMT</pubDate>
+            <category>guide</category>
+        </item>
         <item>
             <title><![CDATA[Mindmap in MDX]]></title>
             <link>https://slhmy.github.io/full-stack-docusaurus/en/blog/mindmap-in-mdx</link>
