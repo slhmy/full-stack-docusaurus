@@ -2,11 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://slhmy.github.io/full-stack-docusaurus/blog</id>
     <title>Full Stack Docusaurus Blog</title>
-    <updated>2023-11-12T00:00:00.000Z</updated>
+    <updated>2023-12-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://slhmy.github.io/full-stack-docusaurus/blog"/>
     <subtitle>Full Stack Docusaurus Blog</subtitle>
     <icon>https://slhmy.github.io/full-stack-docusaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[我是如何使用 Docusaurus 的]]></title>
+        <id>https://slhmy.github.io/full-stack-docusaurus/blog/2023/12/02/how-i-work-with-docusaurus</id>
+        <link href="https://slhmy.github.io/full-stack-docusaurus/blog/2023/12/02/how-i-work-with-docusaurus"/>
+        <updated>2023-12-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在此之前，我也使用过很多其他的静态网站生成器，]]></summary>
+        <content type="html"><![CDATA[<p>在此之前，我也使用过很多其他的静态网站生成器，
+比如 <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>、<a href="https://hexo.io/" target="_blank" rel="noopener noreferrer">Hexo</a> 以及 <a href="https://github.com/rust-lang/mdBook" target="_blank" rel="noopener noreferrer">mdBook</a> 等等。
+这些都是非常优秀的工具，但 Docuasurus 自由度和功能的完善程度都是我所见过的最好的，它让我感觉到内容能被更好的组织和展示。</p>
+<p>不过强大的自由度带来的是配置的复杂性，虽然 Docusaurus 官方提供了完善的文档，但是我还是花了很多时间来熟悉它的工作方式。
+我认为从 Docusaurus 的启动项目开始，到最终真正的工作流的建立，依旧有很多内容值得记录。</p>
+<p>这就是这篇博客存在的原因。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="关于-i18n">关于 i18n<a href="https://slhmy.github.io/full-stack-docusaurus/blog/2023/12/02/how-i-work-with-docusaurus#%E5%85%B3%E4%BA%8E-i18n" class="hash-link" aria-label="关于 i18n的直接链接" title="关于 i18n的直接链接">​</a></h3>
+<p>我对于项目的国际化是有执念的，尽管我在这个仓库中基本只使用中文，但是我还是希望能够为未来的合作者提供更多的可能性。</p>
+<p>随着 i18n 的引入，创建和编辑文档的动作变得更加的复杂。
+你可能会发现 “编辑此页” 按钮只会定向到英文版本的源码，那是因为你忽略了一项配置导致的。
+<code>editLocalizedFiles</code> 配置项默认是 <code>false</code>，你需要将它设置为 <code>true</code> 才能够在其他语言的文档中使用 “编辑此页” 按钮。</p>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>提示</div><div class="admonitionContent_BuS1"><p>你可能需要在 Docuasurus 的 <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">官方网站</a> 中查看更多的内容，
+或者你可以搜索 edit url 以获取更多的信息（注意是 edit url，不是 editurl，这会影响搜索的结果）。
+我当时就因为搜索问题甚至去 Discord 询问了 Docuasurus 的开发者，最后发现是这样一个小差异导致的。</p></div></div>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="关于-algolia">关于 Algolia<a href="https://slhmy.github.io/full-stack-docusaurus/blog/2023/12/02/how-i-work-with-docusaurus#%E5%85%B3%E4%BA%8E-algolia" class="hash-link" aria-label="关于 Algolia的直接链接" title="关于 Algolia的直接链接">​</a></h3>
+<p>Docuasurus 官方提供了 Algolia 的集成，这是一个非常好的功能，并且一开始是免费的。
+但配置起来需要一些时间，尽管 Docuasurus 和 Algolia 都彼此提供了完善的文档，但是我还是花了很多时间来熟悉它们的工作方式。</p>]]></content>
+        <author>
+            <name>slhmy</name>
+            <uri>https://github.com/slhmy</uri>
+        </author>
+        <category label="指引" term="指引"/>
+        <category label="思考" term="思考"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欢迎👋]]></title>
         <id>https://slhmy.github.io/full-stack-docusaurus/blog/weclome</id>
