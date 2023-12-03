@@ -46,5 +46,13 @@
   "sidebar.algorithmsSidebar.category.Cpp - Basics.link.generated-index.description": {
     "message": "在算法中你所需要了解的Cpp基础。",
     "description": "The generated-index page description for category Cpp - Basics in sidebar algorithmsSidebar"
+  },
+  "sidebar.developmentSidebar.category.Redis Knowledge": {
+    "message": "Redis学习",
+    "description": "The label for category Redis Knowledge in sidebar developmentSidebar"
+  },
+  "sidebar.developmentSidebar.category.Redis Knowledge.link.generated-index.description": {
+    "message": "了解Redis和所有有关的知识",
+    "description": "The generated-index page description for category Redis Knowledge in sidebar developmentSidebar"
   }
 }
