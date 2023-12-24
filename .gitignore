@@ -20,3 +20,8 @@ yarn-debug.log*
 yarn-error.log*
 
 /draft
+
+# Ignore precisely the following files
+.obsidian/plugins/remotely-save/data.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json
