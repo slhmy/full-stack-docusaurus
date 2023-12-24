@@ -48,7 +48,7 @@
 主要的出发点是解决Git知识库没法在手机/Pad端快速编辑的问题，毕竟有相当一段使时间里，你只需要关注要写什么，而不是怎么管理你的Git仓库。</p>
 <p>需要iCloud来实现较好的跨端编辑体验，我个人的用法是配合Git插件（复杂情况还是会用纯Git处理），最终把内容更新到配有Action自动化部署的仓库里。遗憾是是没有网页端，起码需要带一个Pad来当主力设备。</p>
 <p>总的来说，未来可期吧，但对于非程序来说，Obsidian还是有些太不友好了，尤其是社区的各种同步插件任然还是没法保证稳定性的，并且很多插件对于Vault来说都是有入侵性的，中途变更插件会非常麻烦。</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="onenote"><a href="https://www.onenote.com/" target="_blank" rel="noopener noreferrer">OneNote</a><a href="https://slhmy.github.io/full-stack-docusaurus/blog/2023/12/24/about-note-tools#onenote" class="hash-link" aria-label="onenote的直接��链接" title="onenote的直接链接">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="onenote"><a href="https://www.onenote.com/" target="_blank" rel="noopener noreferrer">OneNote</a><a href="https://slhmy.github.io/full-stack-docusaurus/blog/2023/12/24/about-note-tools#onenote" class="hash-link" aria-label="onenote的直接��链接" title="onenote的直接链接">​</a></h2>
 <p>功能齐全的老派选手，不是非常适合Markdown，但排版比较灵活对Apple Pencil的智能手写支持是最好的，偏手写的同志依然需要选择OneNote。</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="结语碎碎念">结语&amp;碎碎念<a href="https://slhmy.github.io/full-stack-docusaurus/blog/2023/12/24/about-note-tools#%E7%BB%93%E8%AF%AD%E7%A2%8E%E7%A2%8E%E5%BF%B5" class="hash-link" aria-label="结语&amp;碎碎念的直接链接" title="结语&amp;碎碎念的直接链接">​</a></h2>
 <p>受前公司的影响，我在之前一直都是一名忠实的语雀用户，语雀在各方面其实也算是能用的，
