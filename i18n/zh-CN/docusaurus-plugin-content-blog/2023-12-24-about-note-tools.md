@@ -50,7 +50,7 @@ tags:
 
 总的来说，未来可期吧，但对于非程序来说，Obsidian还是有些太不友好了，尤其是社区的各种同步插件任然还是没法保证稳定性的，并且很多插件对于Vault来说都是有入侵性的，中途变更插件会非常麻烦。
 
-### [OneNote](https://www.onenote.com)
+## [OneNote](https://www.onenote.com)
 
 功能齐全的老派选手，不是非常适合Markdown，但排版比较灵活对Apple Pencil的智能手写支持是最好的，偏手写的同志依然需要选择OneNote。
 
