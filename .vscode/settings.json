@@ -7,5 +7,6 @@
     "no-empty-links": false,
     "no-hard-tabs": false,
     "single-h1": false
-  }
+  },
+  "svg.preview.background": "transparent"
 }
