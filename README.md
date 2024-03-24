@@ -38,10 +38,3 @@ node scripts/html2md.ts <path-to-html>
 
 Migrate from docusaurus v2, might remain some bugs,
 check more in [migration guide](https://docusaurus.io/docs/migration/v3) if meet any problems.
-
-## Recommendations
-
-To improve writing experience, some tools are recommended personally and used in this repo 🥰.
-
-- [Obsidian](https://obsidian.md/) 
-- [Obsidian Git](https://github.com/denolehov/obsidian-git) so that I can edit this repo every where.
