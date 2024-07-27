@@ -94,12 +94,6 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            type: "docSidebar",
-            sidebarId: "docusaurusSidebar",
-            position: "left",
-            label: "Docusaurus",
-          },
-          {
             type: "localeDropdown",
             position: "right",
           },
