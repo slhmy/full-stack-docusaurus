@@ -2,8 +2,6 @@
 
 Recording all my learning process of full stack development.
 
-I currently use Notion for faster recording and publish a site in zh-CN there 👉 [slhmy's Technical Notes](https://slhmy-creative.notion.site/slhmy-creative/7225b9f7b59c418d92fc234a93fc2753?v=228a42c06c5a44778a39d10850becf4a). But all these stuff will finally go into here in this repo.
-
 ## 📝 Editing
 
 Some common usage in daily editing.
