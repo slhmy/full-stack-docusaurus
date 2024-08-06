@@ -138,36 +138,46 @@ const config = {
         darkTheme: darkTheme,
         additionalLanguages: ["python"],
       },
-      algolia: {
-        // The application ID provided by Algolia
-        appId: "U1P3LC5IPK",
+      // algolia: {
+      //   // The application ID provided by Algolia
+      //   appId: "U1P3LC5IPK",
 
-        // Public API key: it is safe to commit it
-        apiKey: "3945caa9500d63a4a4eb2e15b6df22f6",
+      //   // Public API key: it is safe to commit it
+      //   apiKey: "3945caa9500d63a4a4eb2e15b6df22f6",
 
-        indexName: "full-stack-usaurus",
+      //   indexName: "full-stack-usaurus",
 
-        // Optional: see doc section below
-        contextualSearch: true,
+      //   // Optional: see doc section below
+      //   contextualSearch: true,
 
-        // // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-        // externalUrlRegex: 'external\\.com|domain\\.com',
+      //   // // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+      //   // externalUrlRegex: 'external\\.com|domain\\.com',
 
-        // // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-        // replaceSearchResultPathname: {
-        //   from: '/docs/', // or as RegExp: /\/docs\//
-        //   to: '/',
-        // },
+      //   // // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+      //   // replaceSearchResultPathname: {
+      //   //   from: '/docs/', // or as RegExp: /\/docs\//
+      //   //   to: '/',
+      //   // },
 
-        // Optional: Algolia search parameters
-        // searchParameters: {},
+      //   // Optional: Algolia search parameters
+      //   // searchParameters: {},
 
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: "search",
+      //   // Optional: path for search page that enabled by default (`false` to disable it)
+      //   searchPagePath: "search",
 
-        //... other Algolia params
-      },
+      //   //... other Algolia params
+      // },
     }),
+
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+        language: ["en", "zh"],
+      },
+    ],
+  ],
 };
 
 module.exports = config;
