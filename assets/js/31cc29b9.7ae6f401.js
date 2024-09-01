@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfull_stack_docusaurus=self.webpackChunkfull_stack_docusaurus||[]).push([[5297],{2123:s=>{s.exports=JSON.parse('{"authors":[{"name":"slhmy","title":"Stay creative","url":"https://github.com/slhmy","imageURL":"https://github.com/slhmy.png","key":"slhmy","page":null,"count":4}]}')}}]);
