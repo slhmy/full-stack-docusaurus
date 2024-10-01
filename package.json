@@ -30,7 +30,7 @@
     "@docusaurus/module-type-aliases": "^3.4.0",
     "@docusaurus/tsconfig": "^3.5.2",
     "@docusaurus/types": "^3.4.0",
-    "@types/react": "^18.3.3",
+    "@types/react": "^18.3.10",
     "turndown": "^7.1.2",
     "typescript": "~5.5.4"
   },
