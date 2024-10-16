@@ -111,7 +111,7 @@
 <li>开发和算法分区是我对基础知识进行梳理的分区，这些内容应当是通用的，你会在考试、面试或者实际开发中遇到它们。</li>
 <li>博客更多地会是一些我个人探索和想法，它们会更加有趣。</li>
 </ul>
-<p><strong>搜索</strong>功能是完全可用的，它基于algolia，可以帮助你快速找到想要的内容。
+<p><strong>搜索</strong>功能是完全可用的，可以帮助你快速找到想要的内容。
 这是一个我日常也会使用的功能，所以请放心，我会尽可能的保证它的可用性。</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="贡献">贡献<a href="https://slhmy.github.io/full-stack-docusaurus/blog/weclome#%E8%B4%A1%E7%8C%AE" class="hash-link" aria-label="贡献的直接链接" title="贡献的直接链接">​</a></h2>
 <p>这个知识库是开源的，你可以在<a href="https://github.com/slhmy/full-stack-docusaurus" target="_blank" rel="noopener noreferrer">GitHub</a>找到源码。</p>
