@@ -117,6 +117,7 @@
             <description><![CDATA[经过了这次的尝试，我觉得 MDX 非常酷，它近乎无所不能的。]]></description>
             <content:encoded><![CDATA[<p>经过了这次的尝试，我觉得 MDX 非常酷，它近乎无所不能的。
 你可以在 MDX 中使用任何你想要的东西，让我有了更多使用它的想法~</p>
+<!-- -->
 <p>先来看看效果：</p>
 <!-- -->
 <svg class="flex-1" style="width:100%"></svg>

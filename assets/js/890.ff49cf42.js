@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfull_stack_docusaurus=self.webpackChunkfull_stack_docusaurus||[]).push([[890],{890:(s,u,c)=>{c.d(u,{createInfoServices:()=>e.v});var e=c(7021);c(9369)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfull_stack_docusaurus=self.webpackChunkfull_stack_docusaurus||[]).push([[7723],{7723:(s,u,e)=>{e.d(u,{createPieServices:()=>c.f});var c=e(8685);e(9369)}}]);
